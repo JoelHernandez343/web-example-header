@@ -1,6 +1,6 @@
 # Este es mi repositorio
 
-## Tabla de contenidos
+## Tabla de contenidos:
 
 - [Descripción](#Descripción)
 - [Tecnologías](#Tecnologías-que-usamos)
