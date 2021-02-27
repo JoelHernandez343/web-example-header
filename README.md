@@ -29,7 +29,7 @@ Tecnologías que usamos
 Nombre | Contacto | Emoji
 -- | -- | --
 Usiel | [github](https://github.com/usielarb) | :tada:
-Pepe | github | :open_mouth:
+Joel Hernandez | [github](https://github.com/JoelHernandez343/) | :open_mouth:
 
 ## Requisitos
 
